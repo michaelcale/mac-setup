@@ -28,5 +28,15 @@ brew cask install visual-studio-code
 brew cask install vlc
 brew cask install wireshark
 
+# fonts
+brew tap caskroom/fonts
+brew cask install font-fontawesome
+brew cask install font-material-icons
+brew cask install font-materialdesignicons-webfont
+brew cask install font-open-sans
+brew cask install font-oswald
+brew cask install font-roboto
+
+
 echo 'apps install complete'
 tput bel
