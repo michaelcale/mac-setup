@@ -16,9 +16,32 @@ brew install git
 brew unlink git && brew link git
 git config --global core.editor vim
 
+brew install caddy
+brew install cockroach
+brew install curl
+brew install dark-mode
+brew install go
+brew install htop
+brew install http
 brew install httpie
 http --version # to generate ~/.httpie
+
+brew install hugo
+brew install jpeg
+brew install kubernetes-cli
+brew install libpng
+brew install magic-wormhole
+brew install mcrypt
 brew install mongodb
+brew install nmap
+brew install node
+brew install openssl
+brew install openvpn
+brew install ruby
+brew install tldr
+brew install vim
+brew install webp
+brew install wget
 brew install youtube-dl
 
 # mysql
