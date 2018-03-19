@@ -41,6 +41,7 @@ brew install ruby
 brew install tldr
 brew install vim
 brew install webp
+brew install wifi-password
 brew install wget
 brew install youtube-dl
 
