@@ -23,6 +23,8 @@ brew install dark-mode
 brew install go
 brew install htop
 brew install http
+brew install httpd24
+
 brew install httpie
 http --version # to generate ~/.httpie
 
@@ -30,6 +32,7 @@ brew install hugo
 brew install jpeg
 brew install kubernetes-cli
 brew install libpng
+brew instal libyaml
 brew install magic-wormhole
 brew install mcrypt
 brew install mongodb
@@ -38,6 +41,7 @@ brew install node
 brew install openssl
 brew install openvpn
 brew install ruby
+brew install task
 brew install tldr
 brew install vim
 brew install webp
