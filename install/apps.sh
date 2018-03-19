@@ -10,10 +10,12 @@ echo 'Installing apps'
 # get brew cask
 brew tap caskroom/cask
 
+brew cask install atom
+brew cask install blisk
+brew cask dbeaver-community
 brew cask install docker
-
 brew cask install dropbox
-
+brew cask install google-cloud-sdk
 brew cask install google-chrome
 brew cask install firefox
 brew cask install imageoptim
