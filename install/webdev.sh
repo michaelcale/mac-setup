@@ -41,6 +41,7 @@ brew install node
 brew install openssl
 brew install openvpn
 brew install ruby
+brew install sshfs
 brew install task
 brew install tldr
 brew install vim
