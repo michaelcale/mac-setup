@@ -20,6 +20,7 @@ brew cask install google-chrome
 brew cask install firefox
 brew cask install imageoptim
 brew cask install macdown
+brew cask install osxfuse
 brew cask install postman
 brew cask install sequel-pro
 brew cask install slack
