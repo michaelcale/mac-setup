@@ -40,6 +40,7 @@ brew install nmap
 brew install node
 brew install openssl
 brew install openvpn
+brew install protobuf
 brew install ruby
 brew install sshfs
 brew install task
